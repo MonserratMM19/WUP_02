@@ -50,7 +50,7 @@ the graph 'Boxplot' shows  VitC over Cult, the date in the boxplot represents th
 favstats(VitC~Cult,data=veggy)
 ```
   
-The comparison between the two data analysis from the boxplot c19 and c52 shows the exact median for both and shows additional data such as height from the boxplot which is being represented in Q3 and 
+The comparison between the two data analysis from the boxplot c19 and c52 shows the exact median for both and shows additional data such as height from the boxplot which is being represented in Q3 and Q1
   
 ## Inferential Results
   
