@@ -66,3 +66,5 @@ The data point collected is 0.00000003 showing that it is extremely small and th
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+  
+  We used the necessary tools in order to show the statistical difference from the date point in Veggy. we used a boxpot to visually represent what is happening with the data points and give a visual representation of what is happening. secondly we used a numerical description in order to show the deference through the comparison of the data being shown in the box plot lastly, a T-yest was run to show how statistically different the two boxplot the two points actually were to understand that they had a 95% difference from each other and therefore was reason for the different data points in the boxplot and numerical data. 
